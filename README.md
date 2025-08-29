@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Hi tere! I'm kabbya](https://capsule-render.vercel.app/api?type=venom&height=180&color=0:333333,100:000000&text=Hi%20There!!,%20I'm%20Kabbya.&fontSize=40&fontColor=FFFFFF)
+![Hi tere! I'm kabbya](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20There!!,%20I%27m%20Kabbya&fontSize=50)
 
 </div>
 
