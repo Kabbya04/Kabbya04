@@ -140,24 +140,7 @@
 
 <h2 align="center"> 📊 GitHub Statistics: </h2>
 
-<div width="100%" align="center">
-  <p>
-    <a align="center">
-      <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabbya04&layout=donut-vertical&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&locale=en" alt="Kabbya04"/>
-    </a>
-    <p></p>
-    <a align="left">
-      <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kabbya04&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&stroke=ffffff&border=ffffff&locale=en" alt="Kabbya04"/>
-    </a>
-    &nbsp;
-    <a align="right">
-      <img width="38%" src="https://github-readme-stats.vercel.app/api?username=Kabbya04&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&rank_icon=github" alt="Kabbya04" />
-    </a>
-  </p>
-</div>
-    
-![Kabbya's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kabbya04&bg_color=000000&color=FFFFFF&line=808080&point=C0C0C0&area=true&hide_border=true&title_color=FFFFFF&area_color=1a1a1a)
-
+![Kabbya04's GitHub stats](https://gh-stats-umber.vercel.app/api/stats?username=Kabbya04&modules=all&langs=bars&bg=0D1117&text=E6EDF3&muted=8B949E&border=30363D&surface=161B22&c_overview=58A6FF&c_streak=F78166&c_languages=3FB950&c_activity=58A6FF&accent=58A6FF)
 ---
 
 <div align="center">
