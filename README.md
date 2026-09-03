@@ -145,7 +145,9 @@
     <img src="https://gh-stats-umber.vercel.app/api/stats?username=Kabbya04&modules=all&langs=bars&bg=0D1117&text=E6EDF3&muted=8B949E&border=30363D&surface=161B22&c_overview=58A6FF&c_streak=F78166&c_languages=3FB950&c_activity=58A6FF&accent=58A6FF" alt="Kabbya04's GitHub stats" width="100%" />
   </a>
 </div>
+
 ---
+
 
 <div align="center">
     <h3>Thanks for visiting! 😄</h3>
